@@ -1,5 +1,0 @@
-# Dependencies for this partial preview only; not the full v15 training environment.
-# Versions are intentionally not presented as a validated training lockfile.
-torch
-numpy
-scipy
